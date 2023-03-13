@@ -1,0 +1,100 @@
+11:23:44,821 Logger INFO ----------5abbb9b19f.png-----------
+11:23:44,822 Logger INFO Start debugging
+11:23:44,822 Logger INFO Inputs torch.Size([1, 1, 64, 384])
+11:23:45,115 Logger INFO Patch embedding torch.Size([1, 256, 2, 49])
+11:23:45,115 Logger INFO patch height 2
+11:23:45,115 Logger INFO patch width 49
+11:23:45,115 Logger INFO Number of block 6
+11:23:45,116 Logger INFO number of neightbor at each block [15, 15, 15, 16, 16, 17]
+11:23:45,116 Logger INFO Block 0 has dilation of 1
+11:23:45,133 Logger INFO Save activation map...
+11:23:45,197 Logger INFO Block 1 has dilation of 1
+11:23:45,200 Logger INFO Save activation map...
+11:23:45,212 Logger INFO Block 2 has dilation of 2
+11:23:45,217 Logger INFO Save activation map...
+11:23:45,221 Logger INFO Block 3 has dilation of 2
+11:23:45,226 Logger INFO Save activation map...
+11:23:45,230 Logger INFO Block 4 has dilation of 3
+11:23:45,234 Logger INFO Save activation map...
+11:23:45,238 Logger INFO Block 5 has dilation of 3
+11:23:45,242 Logger INFO Save activation map...
+11:23:45,247 Logger INFO ----------329a44c373.png-----------
+11:23:45,248 Logger INFO Start debugging
+11:23:45,248 Logger INFO Inputs torch.Size([1, 1, 32, 384])
+11:23:45,375 Logger INFO Patch embedding torch.Size([1, 256, 1, 49])
+11:23:45,375 Logger INFO patch height 1
+11:23:45,375 Logger INFO patch width 49
+11:23:45,375 Logger INFO Number of block 6
+11:23:45,376 Logger INFO number of neightbor at each block [7, 7, 7, 8, 8, 9]
+11:23:45,376 Logger INFO Block 0 has dilation of 1
+11:23:45,379 Logger INFO Save activation map...
+11:23:45,383 Logger INFO Block 1 has dilation of 1
+11:23:45,385 Logger INFO Save activation map...
+11:23:45,388 Logger INFO Block 2 has dilation of 2
+11:23:45,390 Logger INFO Save activation map...
+11:23:45,393 Logger INFO Block 3 has dilation of 2
+11:23:45,395 Logger INFO Save activation map...
+11:23:45,398 Logger INFO Block 4 has dilation of 3
+11:23:45,400 Logger INFO Save activation map...
+11:23:45,403 Logger INFO Block 5 has dilation of 3
+11:23:45,404 Logger INFO Save activation map...
+11:23:45,409 Logger INFO ----------73b51f198b.png-----------
+11:23:45,409 Logger INFO Start debugging
+11:23:45,409 Logger INFO Inputs torch.Size([1, 1, 64, 192])
+11:23:45,528 Logger INFO Patch embedding torch.Size([1, 256, 2, 25])
+11:23:45,528 Logger INFO patch height 2
+11:23:45,528 Logger INFO patch width 25
+11:23:45,528 Logger INFO Number of block 6
+11:23:45,528 Logger INFO number of neightbor at each block [7, 7, 7, 8, 8, 9]
+11:23:45,529 Logger INFO Block 0 has dilation of 1
+11:23:45,530 Logger INFO Save activation map...
+11:23:45,535 Logger INFO Block 1 has dilation of 1
+11:23:45,537 Logger INFO Save activation map...
+11:23:45,540 Logger INFO Block 2 has dilation of 2
+11:23:45,542 Logger INFO Save activation map...
+11:23:45,545 Logger INFO Block 3 has dilation of 2
+11:23:45,546 Logger INFO Save activation map...
+11:23:45,550 Logger INFO Block 4 has dilation of 3
+11:23:45,551 Logger INFO Save activation map...
+11:23:45,554 Logger INFO Block 5 has dilation of 3
+11:23:45,556 Logger INFO Save activation map...
+11:23:45,560 Logger INFO ----------6331d9e7fd.png-----------
+11:23:45,561 Logger INFO Start debugging
+11:23:45,561 Logger INFO Inputs torch.Size([1, 1, 64, 224])
+11:23:45,726 Logger INFO Patch embedding torch.Size([1, 256, 2, 29])
+11:23:45,727 Logger INFO patch height 2
+11:23:45,727 Logger INFO patch width 29
+11:23:45,727 Logger INFO Number of block 6
+11:23:45,727 Logger INFO number of neightbor at each block [8, 8, 8, 9, 9, 10]
+11:23:45,727 Logger INFO Block 0 has dilation of 1
+11:23:45,729 Logger INFO Save activation map...
+11:23:45,734 Logger INFO Block 1 has dilation of 1
+11:23:45,736 Logger INFO Save activation map...
+11:23:45,740 Logger INFO Block 2 has dilation of 2
+11:23:45,745 Logger INFO Save activation map...
+11:23:45,749 Logger INFO Block 3 has dilation of 2
+11:23:45,752 Logger INFO Save activation map...
+11:23:45,756 Logger INFO Block 4 has dilation of 3
+11:23:45,758 Logger INFO Save activation map...
+11:23:45,763 Logger INFO Block 5 has dilation of 3
+11:23:45,765 Logger INFO Save activation map...
+11:23:45,770 Logger INFO ----------91a55d2cb9.png-----------
+11:23:45,770 Logger INFO Start debugging
+11:23:45,770 Logger INFO Inputs torch.Size([1, 1, 32, 256])
+11:23:45,873 Logger INFO Patch embedding torch.Size([1, 256, 1, 33])
+11:23:45,873 Logger INFO patch height 1
+11:23:45,873 Logger INFO patch width 33
+11:23:45,874 Logger INFO Number of block 6
+11:23:45,874 Logger INFO number of neightbor at each block [4, 4, 4, 5, 5, 6]
+11:23:45,874 Logger INFO Block 0 has dilation of 1
+11:23:45,875 Logger INFO Save activation map...
+11:23:45,880 Logger INFO Block 1 has dilation of 1
+11:23:45,881 Logger INFO Save activation map...
+11:23:45,884 Logger INFO Block 2 has dilation of 2
+11:23:45,885 Logger INFO Save activation map...
+11:23:45,888 Logger INFO Block 3 has dilation of 2
+11:23:45,889 Logger INFO Save activation map...
+11:23:45,892 Logger INFO Block 4 has dilation of 3
+11:23:45,893 Logger INFO Save activation map...
+11:23:45,896 Logger INFO Block 5 has dilation of 3
+11:23:45,897 Logger INFO Save activation map...
